@@ -21,7 +21,7 @@ This is text 2.
 This is text 3.
 press any key to continue....
 <hr>
-![]()
+![](https://github.com/pongsakorn194/LAB-05/blob/master/img/photo1.png?raw=true)
 
  2.3). แก้โปรแกรมตามรูปด้านล่างนี้
  
@@ -30,7 +30,7 @@ press any key to continue....
  2.4). รันโปรแกรม และบันทึกผลที่ได้
 <hr>เมื่อรันโปรแกรมแล้วผลปรากฎว่า ได้ 3 and 6 ขึ้นมา
 <hr>
-![]()
+![](https://github.com/pongsakorn194/LAB-05/blob/master/img/photo2.png?raw=true)
 
 
 ###คำถาม 5.1 เครื่องหมาย { }  ในคำสั่ง Console.WriteLine() มีลักษณะการใช้งานอย่างไร
@@ -54,7 +54,7 @@ press any key to continue....
 <hr>ค่าที่ได้ก็เป็นการแทนตำแหน่งในการใส่ { }
 <hr>
 <hr>
-![]()
+![](https://github.com/pongsakorn194/LAB-05/blob/master/img/photo3.png?raw=true)
 
 3). ทดลองเรื่องการกำหนดความกว้างของอาร์กิวเมนต์
 
@@ -66,7 +66,7 @@ press any key to continue....
 <hr>การใส่Console.WriteLine("{0,0}", 1); คือ "{0,0}", 1 บรรทัดที่0,0 ให้ใส่เลข 1 "{0,2}", 1 บรรทัดที่0,2 ให้ใส่เลข 1
 <hr>
 <hr>
-![]()
+![](https://github.com/pongsakorn194/LAB-05/blob/master/img/photo4.png?raw=true)
 
 ###คำถาม 5.3 การกำหนดความกว้างของอาร์กิวเมนต์ด้วยเครื่องหมาย { , }  ในคำสั่ง Console.WriteLine() มีรูปแบบการใช้งานอย่างไร
 <hr>การใส่"{0,0}", 1 หมายความว่าบรรทัดที่0,0 ให้ใส่เลข 1 การใส่"{0,2}", 1 หมายความว่าบรรทัดที่0,2 ให้ใส่เลข 1 นั่นเอง
@@ -85,7 +85,7 @@ press any key to continue....
 <hr>เมื่อรันโปรแกรมแล้วได้ผลดังรูป
 <hr>
 <hr>
-![]()
+![](https://github.com/pongsakorn194/LAB-05/blob/master/img/photo5.png?raw=true)
 
 5). ทดลองเรื่องการกำหนดรูปแบบพร้อมความกว้างของอาร์กิวเมนต์
   5.1). แก้โปรแกรมตามรูปด้านล่างนี้
@@ -96,7 +96,7 @@ press any key to continue....
 <hr>เมื่อรันโปรแกรมแล้วได้ผลดังรูป
 <hr>
 <hr>
-![]()
+![](https://github.com/pongsakorn194/LAB-05/blob/master/img/photo6.png?raw=true)
 
 6). ทดลองเรื่องการกำหนดรูปแบบพร้อมความกว้างของทศนิยมของอาร์กิวเมนต์
   6.1). แก้โปรแกรมตามรูปด้านล่างนี้
@@ -107,7 +107,7 @@ press any key to continue....
 <hr>เมื่อรันโปรแกรมแล้วได้ผลดังรูป
 <hr>
 <hr>
-![]()
+![](https://github.com/pongsakorn194/LAB-05/blob/master/img/photo7.png?raw=true)
 
 ## แบบฝึกหัด จงระบุ output ของบรรทัดคำสั่งต่อไปนี้
 
@@ -132,4 +132,4 @@ press any key to continue....
           Console.WriteLine("{0}\t{1}\t{2}", i, i*i, i*i*i); 
 15.    Console.WriteLine("{0:#.###}.", 1234.56789);
 ```
-![]()
+![](https://github.com/pongsakorn194/LAB-05/blob/master/img/photo8.png?raw=true)
